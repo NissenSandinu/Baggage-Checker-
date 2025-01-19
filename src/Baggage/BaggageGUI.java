@@ -2,7 +2,7 @@ package Baggage;
 
 /*
  * Author: Nissen Sandinu Wettasinghe
- * Modified Date: July 28, 2024
+ * Modified Date: January 18, 2024
  * Description:
  * This class provides a graphical user interface (GUI) for handling baggage information. 
  * Users can input baggage dimensions and weight, and the application displays details about the baggage, 
